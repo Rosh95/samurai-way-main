@@ -5,7 +5,7 @@ function Header() {
         <div>
             <a href='#'>Home </a>
             <a href='#'>News </a>
-            <a href='#'>Messages from friends </a>
+            <a href='#'>Messages</a>
         </div>
     )
 
